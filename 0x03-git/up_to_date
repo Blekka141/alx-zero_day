@@ -1,0 +1,3 @@
+emacs up_to_date
+git add up_to_date
+git commit -m "Add up_to_date file"
